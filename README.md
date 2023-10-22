@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sciencies
 - 🌱 I’m currently learning about my breeds
 - 💞️ I’m looking to collaborate on my work
-- 📫 How to reach me by nmy mail and my telegrams
+- 📫 How to reach me by nmy mail and my telegram
 
 <!---
 MajdiMorad/MajdiMorad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
