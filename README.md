@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MajdiMorad
 - 👀 I’m interested in Sciencies
-- 🌱 I’m currently learning about my breed
+- 🌱 I’m currently learning about my breeds
 - 💞️ I’m looking to collaborate on my work
 - 📫 How to reach me by nmy mail and my telegram
 
